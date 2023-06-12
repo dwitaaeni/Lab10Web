@@ -41,7 +41,7 @@ return view('artikel/admin_index', $data);
 
 - Selanjutnya buka kembali menu daftar artikel, tambahkan data lagi untuk melihat hasilnya.
 
-![Pagination](img/ss1.PNG)
+![Pagination](img/ss1.png)
 
 ## Membuat Pencarian
 
@@ -80,7 +80,7 @@ return view('artikel/admin_index', $data);
 
 - Selanjutnya uji coba dengan membuka kembali halaman admin artikel, masukkan kata kunci tertentu pada form pencarian.
 
-![Pencarian Data](img/ss2.PNG)
+![Pencarian Data](img/ss2.png)
 
 
 ## Terima Kasih
